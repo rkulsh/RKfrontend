@@ -29,11 +29,13 @@ h2 {
 .middle-container {
   background-color: #cbe2b0;
   padding-bottom: 10px;
+  background-image: "mountain ridge.png"; 
 }
 
 .bottom-container {
   background-color: #639a67;
   padding: 25px 0 10px;
+  background-image: "trail.png";
 }
 
 .intro {
