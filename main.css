@@ -37,7 +37,7 @@ h2 {
 }
 
 .intro {
-  width: 30%;
+  width: 40%;
   padding-top: 30px;
   margin: auto;
 }
@@ -65,7 +65,7 @@ padding-top: 10px;
 }
 
 .bio-message {
-  width: 50%;
+  width: 40%;
   margin: 75px auto 75px auto;
 }
 
@@ -74,7 +74,7 @@ padding-top: 10px;
 }
 
 .contact-me {
-  width: 50%;
+  width: 40%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
