@@ -38,7 +38,7 @@ h2 {
 
 .intro {
   width: 50%;
- padding-top: 30px;
+  padding-top: 30px auto 30px auto;
   margin: auto;
 }
 
