@@ -110,6 +110,14 @@ padding-top: 10px;
   height: 75px;
 }
 
+.link {
+  width: 100px;
+}
+	
+.tweet {
+  width: 100px;
+}
+
 a {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
