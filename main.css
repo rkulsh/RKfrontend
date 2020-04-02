@@ -68,7 +68,7 @@ padding-top: 10px;
 }
 
 .bio-message {
-  width: 30%;
+  width: 40%;
   margin: 75px auto 75px auto;
 }
 
@@ -77,13 +77,13 @@ padding-top: 10px;
 }
 
 .contact-me {
-  width: 40%;
+  width: 45%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
 
 .contact-message {
-  width: 40%;
+  width: 45%;
 }
 
 .mountain {
