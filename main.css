@@ -29,13 +29,14 @@ h2 {
 .middle-container {
   background-color: #cbe2b0;
   padding-bottom: 10px;
-  background-image: url('https://github.com/rkulsh/RKfrontend/blob/master/mountain%20ridge.png'); 
+  background-image: url("https://github.com/rkulsh/RKfrontend/blob/master/mountain%20ridge.png"); 
 }
 
 .bottom-container {
   background-color: #639a67;
   padding: 25px 0 10px;
-  background-image: "trail.png";
+  background-image: url("https://github.com/rkulsh/RKfrontend/blob/master/trail.png");
+
 }
 
 .intro {
